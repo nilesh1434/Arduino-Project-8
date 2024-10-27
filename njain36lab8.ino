@@ -1,4 +1,4 @@
-// Lab 7 - Graphing sensor data on a PC
+// Lab 8 - Graphing sensor data on a PC
 // This code is supposed to show the changes in the graph for a Photoresistor and a Potentiometer on the same graph.
 // Youtube link - https://youtu.be/IgZgEvdhBwM
 
